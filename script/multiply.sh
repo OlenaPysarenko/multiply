@@ -1,0 +1,3 @@
+#!/bin/bash
+echo Launching multiplication service...
+java -jar multiply.jar $1 $2 $3
